@@ -1,0 +1,22 @@
+.loginimg{
+    background:url(../../../assets/photo1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: -15%;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    animation: image-spin infinite 400s linear;
+}
+
+@keyframes image-spin {
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+    }
+}

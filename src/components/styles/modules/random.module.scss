@@ -1,0 +1,26 @@
+.form div input[type='text']{
+    width: 100%;
+    padding:8px;
+    outline: none;
+    border-radius: 3px;
+    margin:3px 0;
+    font-size: 13px;
+    background:rgb(80, 104, 101);
+}
+.form div textarea{
+    width: 100%;
+    margin: 3px 0;
+    font-size: 13px;
+    background:rgb(80, 104, 101);
+    outline: none;
+    padding:8px;
+}
+
+.form button{
+    padding:10px;
+    background:black;
+    width: 100%;
+    color:white;
+    font-size: 13px;
+    border-radius: 3px;
+}
