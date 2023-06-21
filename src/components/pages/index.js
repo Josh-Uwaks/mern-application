@@ -1,8 +1,0 @@
-export {default as Admins} from './Admins'
-export {default as Dashboard} from './Dashboard'
-export {default as Lender} from './Lender'
-export {default as Loans} from './Loans'
-export {default as Payments} from './Payments'
-export {default as Reports} from './Reports'
-export {default as Settings} from './Settings'
-export {default as Support} from './Support'
